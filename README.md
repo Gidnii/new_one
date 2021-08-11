@@ -41,3 +41,16 @@ Checkboxes
 Links:
 [the visible clicable name to go to google](https://google.com)
 
+table
+
+| table heading | table headind | table heading |
+| ------------- | --------------| ------------- |
+| table data    | table data    | table data    | 
+
+
+
+```this is the code```
+
+image from link
+
+![sun flower image](https://upload.wikimedia.org/wikipedia/commons/3/3b/Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg)
